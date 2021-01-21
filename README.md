@@ -22,4 +22,6 @@ Hi everyone, these are My solutions to assignments of [CS231n: Convolutional Neu
 * Q4: Style Transfer. (Done in Pytorch1.5)
 * Q5: Generative Adversarial Networks. (Done in Pytorch1.5)
 
+If you have any questions feel free to send an email to [saha0073@umn.edu](mailto:saha0073@umn.edu)
+
 Happy learning!
